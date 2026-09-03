@@ -1,0 +1,69 @@
+TO DO APP - ÇALIŞTIRMA KOMUTLARI
+================================
+
+1. BACKEND ÇALIŞTIRMA
+---------------------
+
+Terminal:
+
+cd D:\GitHub\ToDoApp\server
+
+node server.js
+
+
+Başarılı bağlantıda:
+
+Server http://localhost:5000 adresinde çalışıyor.
+SQL Server bağlantısı başarılı!
+
+
+2. FRONTEND ÇALIŞTIRMA
+----------------------
+
+Yeni bir terminal aç:
+
+cd D:\GitHub\ToDoApp\client
+
+npm run dev
+
+
+Frontend:
+
+http://localhost:5173/
+
+
+3. İLK KURULUM
+--------------
+
+Backend:
+
+cd D:\GitHub\ToDoApp\server
+npm install
+
+
+Frontend:
+
+cd D:\GitHub\ToDoApp\client
+npm install
+
+
+4. VERİTABANI
+-------------
+
+SQL Server üzerinde:
+
+database/Veri Taban kodu.txt
+
+dosyasındaki SQL komutları çalıştırılmalıdır.
+
+
+5. ENV
+------
+
+server klasörü içerisinde:
+
+.env
+
+dosyası oluşturulmalıdır.
+
+.env.example dosyası örnek olarak kullanılabilir.
