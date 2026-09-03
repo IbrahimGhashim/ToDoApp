@@ -391,25 +391,6 @@ oluşturulacaktır.
 
 ---
 
-# 🔑 5. Environment Variables
-
-`server` klasörü içerisinde `.env` dosyası oluştur.
-
-`.env.example` dosyasını örnek olarak kullanabilirsin.
-
-Örnek:
-
-```env
-JWT_SECRET=your_secret_key_here
-
-DB_SERVER=YOUR_SQL_SERVER
-DB_DATABASE=ToDoAppDB
-```
-
-> ⚠️ `.env` dosyası güvenlik nedeniyle GitHub repository'sine gönderilmemektedir.
-
----
-
 # ▶️ 6. Backend'i çalıştır
 
 Yeni bir terminal aç:
