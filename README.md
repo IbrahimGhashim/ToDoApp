@@ -1,8 +1,4 @@
-Tabii. 👍 README'yi biraz daha **GitHub'da profesyonel görünecek**, proje hakkında yeterli bilgi verecek şekilde hazırlayalım. Görselleri de doğrudan README içine ekleyelim.
 
-`D:\GitHub\ToDoApp\README.md` dosyasının **tamamını silip** aşağıdakini koy:
-
-````markdown
 # 📝 To Do App
 
 Modern ve kullanıcı bazlı bir görev yönetim uygulaması.
